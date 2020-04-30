@@ -1,2 +1,2 @@
 # GraphV
-GraphV - A RNA virus strain-level identification tool using long reads and genome graph.
+GraphV - An RNA virus strain-level identification tool using long reads and genome graph.
