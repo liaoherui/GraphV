@@ -21,7 +21,7 @@ Then, you need to download the genome graph database for 8 RNA viruses. Run:<BR/
 
 Use `python GraphV.py -h` to check the usage.
 
-A demo real data of Sars-Cov-2 is included in GraphV folder, which can be uesd for test.
+A demo real data of SARS-Cov-2 is included in GraphV folder, which can be uesd for test.
 
 A running demo: (Result will be generated in the folder called `"GraphV"` by default)
 
