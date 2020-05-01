@@ -56,5 +56,5 @@ There will be 5 output files of GraphV.
 
 Note: <BR/><BR/>
 For 3, 4, the meaning of each column in the file is: `Strain name, alignment length, genome length, alignment coverage`.<BR/>
-For 5, the meaning of each column in the file is: `Strain name, alignment length, genome length, unique coverage, strain name in database`.
+For 5, the meaning of each column in the file is: `Strain name, unique alignment length, genome length, unique coverage, strain name in database`.
 
