@@ -27,7 +27,7 @@ A running demo: (Result will be generated in the folder called `"GraphV"` by def
 
 `python GraphV.py -i Data/SRR10948550_801.fastq -v SCOV2`
 
-The table about virus name and virus_type parameter:
+The below table shows relationship between virus name and `virus_type` parameter:
 
 | Virus Name | virus_type parameter |
 |------|-------------|
