@@ -14,7 +14,7 @@ Make sure these programs have been installed and added in path.
 ####
 `git clone https://github.com/liaoherui/GraphV.git`<BR/>
 ####
-Then, you need to download the genome graph database for 8 RNA viruses. Run:<BR/>
+Then, you need to download the genome graph database of 8 RNA viruses. Run:<BR/>
 `cd GraphV`<BR/>
 `sh download.sh`<BR/>
 ### Usage
