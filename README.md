@@ -1,5 +1,4 @@
 # GraphV - An RNA virus strain-level identification tool using long reads and genome graph.
-==========================================================================
 
 ### E-mail: heruiliao2-c@my.cityu.edu.hk
 ### Version: V1.0
