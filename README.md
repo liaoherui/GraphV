@@ -42,7 +42,7 @@ The table about virus name and virus_type parameter:
 
 ### Output file
 
-There will be 5 result files of GraphV.
+There will be 5 output files of GraphV.
 
 1. `*.json` file --- The alignment result file from GraphAligner.
 
@@ -55,6 +55,6 @@ There will be 5 result files of GraphV.
 5. `*_Unique_Cov.txt` --- The GraphV result file which is sorted by the descending order of unique coverage.
 
 Note: <BR/>
-For 3, 4, the meaning of each column in the file is: `Strain name, alignment length, genome length, alignment coverage`.<BR/>
+For 3, 4, the meaning of each column in the file is: `Strain name, alignment length, genome length, alignment coverage`.<BR/><BR/>
 For 5, the meaning of each column in the file is: `Strain name, alignment length, genome length, unique coverage, strain name in database`.
 
