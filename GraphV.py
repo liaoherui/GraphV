@@ -35,6 +35,8 @@ def main():
 		threads='1'
 	if not ucc:
 		ucc='0.9'
+	if not os.path.exists(out_dir):
+		os.makedirs(out_dir)
 	##### Only 2 steps totally #####
 
 	# 1. The first Step is to Run the GraphAligner
