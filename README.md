@@ -9,7 +9,7 @@
 
 Make sure these programs have been installed and added in path.
 
-### Install (Only for linux)
+### Install (Only for linux or ubuntu)
 
 ####
 `git clone https://github.com/liaoherui/GraphV.git`<BR/>
