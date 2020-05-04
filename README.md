@@ -17,6 +17,12 @@ Make sure these programs have been installed and added in path.
 Then, you need to download the genome graph database of 8 RNA viruses. Run:<BR/>
 `cd GraphV`<BR/>
 `sh download.sh`<BR/>
+
+If you fail to download database with `download.sh`, try another script then, Run:<BR/>
+`cd GraphV`<BR/>
+`sh download_2.sh`<BR/>
+
+Still failed, please email to the author to get the database.
 ### Usage
 
 Use `python GraphV.py -h` to check the usage.
