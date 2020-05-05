@@ -60,7 +60,7 @@ def identify(db_dir,identify_script,vtype,out_dir,prefix,ucc):
 
 def graphAligner(db_dir,in_read,vtype,threads,out_dir,prefix):
 	print(':: GraphV - 1. Align all input reads to the genome graph...\n\n')
-	cmd='GraphAligner -t '+threads+' -g '+db_dir+'/'+vtype+'/clean_recluster.vg -f '+in_read+' -a '+out_dir+'/'+prefix+'.json'
+	cmd='GraphAligner -t '+threads+' -g '+db_dir+'/'+vtype+'/clean_recluster.vg -f '+in_read+' -a '+out_dir+'/'+prefix+'.json -x vg'
 	p=subprocess.run(cmd,shell=True)
 	print('\n:: GraphV - 1. Done.\n')
 	return
