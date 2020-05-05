@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------------
 ### Dependencies:
 * Python >=3.6
-* GraphAligner 1.0.10 (https://github.com/maickrau/GraphAligner)
+* GraphAligner 1.0.11 (https://github.com/maickrau/GraphAligner)
 
 Make sure these programs have been installed and added in path.
 
