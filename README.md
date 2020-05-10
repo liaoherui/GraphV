@@ -27,7 +27,7 @@ Still failed, please email to the author to get the database.
 
 Use `python GraphV.py -h` to check the usage.
 
-A demo real data of SARS-Cov-2 is included in GraphV folder, which can be uesd for test.
+A demo real data of SARS-Cov-2 is included in "Data" folder, which can be uesd for test.
 
 A running demo: (Result will be generated in the folder called `"GraphV"` by default)
 
